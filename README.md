@@ -37,6 +37,11 @@ He even said in his blog and i quote:
 >especially in our work. When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.
 
 
+*concluded by*
+***Anas Al-Ramahi***
+[About me](https://github.com/AnasAlRamahi/reading-notes/AboutMe).
+
+
 ![Stay Motivated](https://www.jackpetcheyfoundation.org.uk/core-assets/uploads/2019/11/Feature-image-school-planner-cropped.jpg)
 
 
