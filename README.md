@@ -1,4 +1,3 @@
-# reading-notes
 
 ## The growth mindset VS The fixed Mindset
 
