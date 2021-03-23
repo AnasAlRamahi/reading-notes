@@ -20,7 +20,7 @@
 ### KEEP IN MIND:
 
 
-**fixed** | **growth**
+**FIXED** | **GROWTH**
 ---------------------------------------- | ----------------------------------------
 Avoids CHALLENGES | Embraces CHALLENGES
 Loses focus facing OBSTACLES| Persists when facing OBSTACLES
