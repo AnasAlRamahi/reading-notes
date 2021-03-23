@@ -1,5 +1,5 @@
 
-## The growth mindset VS The fixed Mindset
+## The Growth Mindset VS The Fixed Mindset
 
   Each individual has his own understanding and perspective, and each one has his own talents and intelligence, some people are more intelligent than others in certain aspects of life, and some are more tanlented and intelligent in general, you can't change that. But they were born that way, and that doesn't mean that you are less of a human being. Intelligent people are more expected to do better, and they can be the way to inspire and help others.
 
@@ -38,7 +38,7 @@ He even said in his blog and i quote:
 
 *concluded by*
 ***Anas Al-Ramahi***
-[About me](https://github.com/AnasAlRamahi/reading-notes/AboutMe).
+[About me](https://anasalramahi.github.io/reading-notes/AboutMe).
 
 
 ![Stay Motivated](https://www.jackpetcheyfoundation.org.uk/core-assets/uploads/2019/11/Feature-image-school-planner-cropped.jpg)
