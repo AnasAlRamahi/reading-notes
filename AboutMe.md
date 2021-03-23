@@ -14,5 +14,5 @@ If didnt read about the blog I concluded in the main page about the Growth Minds
 *Here is the link to my GetHub Profile:*
 [Anas Al-Ramahi](https://github.com/AnasAlRamahi).
 
-**[Head back to the main page](https://github.com/AnasAlRamahi/reading-notes/).**
+**[Head back to the main page](https://anasalramahi.github.io/reading-notes/).**
 
